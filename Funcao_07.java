@@ -1,4 +1,4 @@
-package com.filipe.funcao;
+package com.tais.funcao;
 import java.util.Scanner;
 import java.text.DecimalFormat;
 public class Funcao_07 {

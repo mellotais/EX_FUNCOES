@@ -1,4 +1,4 @@
-package com.filipe.funcao;
+package com.tais.funcao;
 import java.util.Scanner;
 import java.util.Random;
 public class Funcao_13 {
